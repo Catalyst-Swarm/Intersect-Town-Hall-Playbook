@@ -1,12 +1,10 @@
 # Intersect Town Hall by SWARM
 
+{% hint style="info" %}
 Intersect Town Hall by SWARM
 
 Following a Swarm Session discussion on Saturday 30th March 2024 this working document is intended to capture discussion and draft of an application to Intersect of Swarm admin and facilitation of their Town Halls and After Town halls
-
-ALL:
-
-I’ve tidied up the application and made it match the budget. The below is a “final” version. I’ve left the old version below it, in case we need it.
+{% endhint %}
 
 ### Application <a href="#id-3k79uucou6xn" id="id-3k79uucou6xn"></a>
 
