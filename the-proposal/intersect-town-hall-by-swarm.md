@@ -259,9 +259,11 @@ The deliverables run concurrently over 7 to 8 months from May/June to December 2
 
 ### Cost per Deliverable <a href="#id-660859sjof1b" id="id-660859sjof1b"></a>
 
+{% hint style="info" %}
 Please provide the estimated cost per deliverable in ADA, and detailed rationale of spending.\*
 
 (Applicant notes: the sum of all deliverable costs should equal the total amount requested. If one deliverable represents overhead costs, it cannot exceed 15% of the total award amount. For example: 1. 15,000 ADA. 30hrs of design time @ 500 ADA/hr)
+{% endhint %}
 
 See budget at [https://docs.google.com/spreadsheets/d/1GNhnzSxtgkVZgjSIRBN8arY9XiY1btaDe1xK0hyk62M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GNhnzSxtgkVZgjSIRBN8arY9XiY1btaDe1xK0hyk62M/edit?usp=sharing)
 
