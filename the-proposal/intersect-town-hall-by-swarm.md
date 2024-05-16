@@ -33,9 +33,11 @@ Which award are you applying for ?
 
 ### Summarize your solution in \~250 words or less. <a href="#dju0s1ne21g2" id="dju0s1ne21g2"></a>
 
+{% hint style="info" %}
 Please use this as your elevator pitch.\*
 
 (Applicant notes: please see the award category documents by visiting[ this page](https://docs.intersectmbo.org/grants/open-grants) for the detailed briefs)
+{% endhint %}
 
 Swarm, an organisational member of Intersect, would like to lead on both Town Halls \*and\* After Townhalls, providing a connected experience for attendees. This proposal covers both, enabling us to provide some important elements (publicity, planning, community research) in one. We’ll be building on our extensive experience running Catalyst After Town Halls and SingularityNET spaces, and crucially, in supporting geographical communities in Cardano to develop their own TownHalls.
 
@@ -55,9 +57,11 @@ No. This solution only integrates provision of Intersect Town Halls and After To
 
 ### Amount Requested <a href="#qm496x3pxlte" id="qm496x3pxlte"></a>
 
+{% hint style="info" %}
 _What is the total amount requested?\*_
 
 _(Applicant notes: please round to the nearest 1,000 ADA)_
+{% endhint %}
 
 40,000 ADA total
 
