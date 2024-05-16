@@ -8,11 +8,11 @@ Following a Swarm Session discussion on Saturday 30th March 2024 this working do
 
 ### Application <a href="#id-3k79uucou6xn" id="id-3k79uucou6xn"></a>
 
-### Email <a href="#laoy9fz9xrjl" id="laoy9fz9xrjl"></a>
+## Email <a href="#laoy9fz9xrjl" id="laoy9fz9xrjl"></a>
 
 coreswarm@gmail.com
 
-### About the proposal <a href="#mo04sv7w7xq6" id="mo04sv7w7xq6"></a>
+## About the proposal <a href="#mo04sv7w7xq6" id="mo04sv7w7xq6"></a>
 
 {% hint style="info" %}
 Which award are you applying for ?
@@ -21,17 +21,17 @@ Which award are you applying for ?
 * Inclusion and Accessibility - Town Halls
 * Inclusion and Accessibility - After Town Halls
 
-### What is the title of your proposal ? <a href="#jhhhb56em882" id="jhhhb56em882"></a>
+## What is the title of your proposal ? <a href="#jhhhb56em882" id="jhhhb56em882"></a>
 
 **Intersect Town Halls & After TownHalls facilitated by Swarm**
 
-### Please create a random 6-digit proposal ID to help identify your proposal.\* <a href="#ry9kcf6dqias" id="ry9kcf6dqias"></a>
+## Please create a random 6-digit proposal ID to help identify your proposal.\* <a href="#ry9kcf6dqias" id="ry9kcf6dqias"></a>
 
 (Applicant notes: for example, 532412. To avoid overlap with other proposal IDs, do not use numbers like 100000 or 123456. This ID will be used to reference your application. Please keep for your records)
 
 518133
 
-### Summarize your solution in \~250 words or less. <a href="#dju0s1ne21g2" id="dju0s1ne21g2"></a>
+## Summarize your solution in \~250 words or less. <a href="#dju0s1ne21g2" id="dju0s1ne21g2"></a>
 
 {% hint style="info" %}
 Please use this as your elevator pitch.\*
@@ -47,15 +47,15 @@ We will ensure that Town Halls and After Townhalls are engaging, welcoming, well
 
 One key element of our offer is how we’ll integrate documentation. We see the content of an Intersect TH as community-owned IP; our approach is to open-source this IP by documenting it on a GitBook backed by an open-source repo, supported by Creative Commons licences for any content owned by named individuals.This will enable us to track topics, contributors, decisions, and ideas, so that Town Hall and ATH content becomes an Intersect community asset.
 
-### Have you submitted another Community Tooling proposal in any category? <a href="#yqys0kbud2i8" id="yqys0kbud2i8"></a>
+## Have you submitted another Community Tooling proposal in any category? <a href="#yqys0kbud2i8" id="yqys0kbud2i8"></a>
 
 No.
 
-### Will your proposed solution be integrated with the work of any other proposals, yours or otherwise? <a href="#eruiis4wqpy6" id="eruiis4wqpy6"></a>
+## Will your proposed solution be integrated with the work of any other proposals, yours or otherwise? <a href="#eruiis4wqpy6" id="eruiis4wqpy6"></a>
 
 No. This solution only integrates provision of Intersect Town Halls and After Town Halls.
 
-### Amount Requested <a href="#qm496x3pxlte" id="qm496x3pxlte"></a>
+## Amount Requested <a href="#qm496x3pxlte" id="qm496x3pxlte"></a>
 
 {% hint style="info" %}
 _What is the total amount requested?\*_
@@ -71,13 +71,13 @@ _(Applicant notes: please round to the nearest 1,000 ADA)_
 
 10,000 ADA for elements common to both
 
-### Details of your proposed solution <a href="#id-2wtq015qzrr7" id="id-2wtq015qzrr7"></a>
+## Details of your proposed solution <a href="#id-2wtq015qzrr7" id="id-2wtq015qzrr7"></a>
 
 {% hint style="info" %}
 Please provide details on how you will meet Minimum Functional Requirements, Minimum Non-functional Requirements and where possible Optional Requirements.
 {% endhint %}
 
-**Minimum Functional Requirements**
+### **Minimum Functional Requirements**
 
 * **How will we consider the type of content and updates members of Intersect want to hear about?**
 
@@ -141,7 +141,7 @@ They will be mainly promoted alongside TH itself via posting in key channels suc
 
 We have budgeted to be able to offer members a co-facilitator and/or support in planning and delivering an ATH. We are also managing things like uploading and timestamping recordings.
 
-**Minimum Non-Functional Requirements**
+### **Minimum Non-Functional Requirements**
 
 * **Establishing an ‘identity’ for Intersect TH/ATH**
 
@@ -159,13 +159,13 @@ we wrote for Catalyst ATH, but specific to Intersect and based on what we have l
 
 The other part of our transition plan is for members of the regular working group that we will facilitate to be part of putting together a proposal to run THs in 2025.
 
-**Optional Requirements**
+### **Optional Requirements**
 
 * Register a wallet address to be associated with participation or contribution.
 
 [Refer to brief to complete this section.](https://docs.intersectmbo.org/intersect-community-grants/open-grants/inclusion-and-accessibility#intersect-town-halls)
 
-### Who is your solution for? <a href="#id-7ed46zwqiw99" id="id-7ed46zwqiw99"></a>
+## Who is your solution for? <a href="#id-7ed46zwqiw99" id="id-7ed46zwqiw99"></a>
 
 {% hint style="info" %}
 _Can you evidence a community need or desire for it? If you can, please provide supporting numbers or data._
@@ -179,7 +179,7 @@ The current membership of Intersect is at least 500 (judging by number of Discor
 
 This proposal aims to increase active participation drawn from this existing member base, and increase membership.
 
-### Planned Technical Features <a href="#xggalh7njthj" id="xggalh7njthj"></a>
+## Planned Technical Features <a href="#xggalh7njthj" id="xggalh7njthj"></a>
 
 {% hint style="info" %}
 _Please provide detail on the planned technical features, chosen technical stack and implementation (including why) of your solution_
@@ -189,7 +189,7 @@ Technical features will include open source tools currently used in administrati
 
 Overall the technical stack will favor open source solutions extended to enable Community Intellectual property.
 
-### Deliverables <a href="#u3u5qir0wct2" id="u3u5qir0wct2"></a>
+## Deliverables <a href="#u3u5qir0wct2" id="u3u5qir0wct2"></a>
 
 {% hint style="info" %}
 _Outline the deliverables in your proposed solution, where possible following the milestone guidance as laid out in the requirements._
@@ -217,7 +217,7 @@ _(Applicant notes: please number each deliverable and provide a short descriptio
 9. 2025 Proposal: _Creating a collective proposal (or separate proposals for TH and ATH) with the community for them to run Th and ATH in 2025._
 10. Intersect Playbook: _Creation and sharing of a Playbook, similar to the Catalyst ATH Playbook here_ [_https://docs.google.com/document/d/10LumIRMm9dwlg6cGxx6KHYUcZfSB4-DahKE06kit8E0/edit?usp=sharing_](https://docs.google.com/document/d/10LumIRMm9dwlg6cGxx6KHYUcZfSB4-DahKE06kit8E0/edit?usp=sharing) _that describes how Intersect Town Halls and After TownHalls were run, if anyone wanted to implement similar methods._
 
-### Acceptance Criteria <a href="#id-7a4isnupgs8w" id="id-7a4isnupgs8w"></a>
+## Acceptance Criteria <a href="#id-7a4isnupgs8w" id="id-7a4isnupgs8w"></a>
 
 {% hint style="info" %}
 _For each deliverable, please explain the acceptance criteria (AC).\*_
@@ -236,7 +236,7 @@ _(Applicant notes: the AC for a deliverable creates the checklist for testing co
 9. 2025 Proposal - _A proposal - or if the community prefers, 2 sepatrate proposals - for TH and ATH in 2025 is produced by the whole Planning work group; the proposal addresses any issues that emerged in 2024; the proposal draws on the Intersect TH playbook and the documentation of THs in 2024; the proposal involves handover of TH to the wider Intersect community, with support from the Swarm team as needed._
 10. Intersect Playbook: _A Playbook is produced gathering all the knowledge from the process of running Intersect TH and ATH in 2024; the Playbook addresses the unique issues for Intersect TH and ATH; the playbook is widely shared and open-sourced; the playbook is produced in time for it to be used in writing a proposal for THs in 2025._
 
-### Estimated Duration and deliverable rationale <a href="#q0z7fjhvq2o2" id="q0z7fjhvq2o2"></a>
+## Estimated Duration and deliverable rationale <a href="#q0z7fjhvq2o2" id="q0z7fjhvq2o2"></a>
 
 {% hint style="info" %}
 Provide an estimated duration and rationale for each deliverable.\*
@@ -257,7 +257,7 @@ The deliverables run concurrently over 7 to 8 months from May/June to December 2
 9. 2025 Proposal - _4 weeks - mid Nov to mid Dec 2024. Will involve some asynchronous working, and possibly some ad-hoc meetings outside the regular TH/ATH Planning Work Group._
 10. Intersect Playbook: _created as an ongoing process across the whole project, via the Planning Workgroup meetings, and finalised and published in mid November, so it can inform the proposal for 2025._
 
-### Cost per Deliverable <a href="#id-660859sjof1b" id="id-660859sjof1b"></a>
+## Cost per Deliverable <a href="#id-660859sjof1b" id="id-660859sjof1b"></a>
 
 {% hint style="info" %}
 Please provide the estimated cost per deliverable in ADA, and detailed rationale of spending.\*
@@ -280,7 +280,7 @@ See budget at [https://docs.google.com/spreadsheets/d/1GNhnzSxtgkVZgjSIRBN8arY9X
 
 **Total 40,000 ADA**
 
-### Project Team <a href="#id-7v4m1pvbqh4r" id="id-7v4m1pvbqh4r"></a>
+## Project Team <a href="#id-7v4m1pvbqh4r" id="id-7v4m1pvbqh4r"></a>
 
 {% hint style="info" %}
 Please describe the team who will be executing this project by providing their name and summary of relevant experience with links to relevant work examples if applicable.\*
@@ -313,7 +313,7 @@ LinkedIn:[ https://www.linkedin.com/in/stephen-whitenstall-166727210/](https://w
 
 We will expand based on active contributors from the Intersect and Swarm Communities.
 
-### Risk Assessment <a href="#id-1yy87u9x239" id="id-1yy87u9x239"></a>
+## Risk Assessment <a href="#id-1yy87u9x239" id="id-1yy87u9x239"></a>
 
 {% hint style="info" %}
 Please provide information about the main risks that could prevent you from delivering the project successfully and your mitigation plan.\*
@@ -337,7 +337,7 @@ Risk - FUD around Intersect member, committee/WG, or wider scale Cardano efforts
 
 * Mitigation: transparency and communication around documentation and process; clarity of responsibility and accountability for efforts conducted under this grant; professionalism and win/win, infinite games mindset around engaging with others in communication channels; listening as a core skill that is modeled.
 
-### Dependencies <a href="#id-336knehzsqui" id="id-336knehzsqui"></a>
+## Dependencies <a href="#id-336knehzsqui" id="id-336knehzsqui"></a>
 
 {% hint style="info" %}
 If you answered yes to the above, will you plan to integrate or work together with these projects directly? If so, how do you intend to work together?\*
@@ -357,7 +357,7 @@ Nevertheless, our process of community outreach, research and reporting comprise
 
 And “user support” is addressed by our plan to train and support community members to gradually take on facilitation of TH, and our plan to offer support in the form of co-facilitation and help with planning, to people who want to run an ATH but lack the confidence to do so.
 
-### Last Thoughts <a href="#qhv4rkx81vky" id="qhv4rkx81vky"></a>
+## Last Thoughts <a href="#qhv4rkx81vky" id="qhv4rkx81vky"></a>
 
 {% hint style="info" %}
 Lastly, is there anything else you would like to add that will help us understand and evaluate your proposal fairly?
@@ -372,7 +372,7 @@ Swarm is widely known for its process of kickstarting Town Halls in different co
 All information provided is accurate and complete to the best of my knowledge. By clicking “Submit” you consent to allow Intersect to store and process the personal information submitted above and to share your application with the Membership & Community Committee. For more information on how we process your personal data, please read our [Privacy Policy](https://www.intersectmbo.org/privacy-policy.pdf).\
 
 
-### References <a href="#v3z13kkf0j73" id="v3z13kkf0j73"></a>
+## References <a href="#v3z13kkf0j73" id="v3z13kkf0j73"></a>
 
 Intersect Documentation
 
