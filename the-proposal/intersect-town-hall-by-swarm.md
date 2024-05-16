@@ -282,9 +282,11 @@ See budget at [https://docs.google.com/spreadsheets/d/1GNhnzSxtgkVZgjSIRBN8arY9X
 
 ### Project Team <a href="#id-7v4m1pvbqh4r" id="id-7v4m1pvbqh4r"></a>
 
+{% hint style="info" %}
 Please describe the team who will be executing this project by providing their name and summary of relevant experience with links to relevant work examples if applicable.\*
 
 (Applicant notes:. focus the skills and experience information only on what is relevant to delivering this proposal. In addition, please provide links to the Ideascale proposals of any successful Project Catalyst funding for the team members. For example: A. First Last. Full stack development (5+yrs). Example work: [https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694))
+{% endhint %}
 
 All members in the team have experience organising spaces, facilitating and documenting outcomes.
 
@@ -313,9 +315,11 @@ We will expand based on active contributors from the Intersect and Swarm Communi
 
 ### Risk Assessment <a href="#id-1yy87u9x239" id="id-1yy87u9x239"></a>
 
+{% hint style="info" %}
 Please provide information about the main risks that could prevent you from delivering the project successfully and your mitigation plan.\*
 
 (Applicant notes: to keep it focused on the most important risks, please limit yourself to five or fewer. For example: 1. Web3 login takes longer than expected to develop. Our mitigation will be to design the architecture to work with a Web2 login as a backup plan.)
+{% endhint %}
 
 Risk - that Intersect members will not engage in planning
 
