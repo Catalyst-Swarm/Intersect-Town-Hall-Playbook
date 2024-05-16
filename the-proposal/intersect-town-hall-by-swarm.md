@@ -339,11 +339,15 @@ Risk - FUD around Intersect member, committee/WG, or wider scale Cardano efforts
 
 ### Dependencies <a href="#id-336knehzsqui" id="id-336knehzsqui"></a>
 
+{% hint style="info" %}
 If you answered yes to the above, will you plan to integrate or work together with these projects directly? If so, how do you intend to work together?\*
+{% endhint %}
 
 No dependencies
 
+{% hint style="info" %}
 Please describe your plan for testing, future updates, user support and maintenance, or indicate if none can be provided
+{% endhint %}
 
 This question is more relevant to software development, and might not be entirely appropriate for a proposal such as this.
 
@@ -355,9 +359,11 @@ And “user support” is addressed by our plan to train and support community m
 
 ### Last Thoughts <a href="#qhv4rkx81vky" id="qhv4rkx81vky"></a>
 
+{% hint style="info" %}
 Lastly, is there anything else you would like to add that will help us understand and evaluate your proposal fairly?
+{% endhint %}
 
-Please note that we are propsing to facilitate \*both\* TH and ATH in an integrated proposal.
+Please note that we are proposing to facilitate \*both\* TH and ATH in an integrated proposal.
 
 This is because we have found, in our previous work in supporting communities across Catalyst to run THs, that it works best to integrate TH and ATH, at least initially, so that there is a cohesive identity, and so that some of the overheads such as publicity, outreach and reporting can be combined. It also allows us to directly compare participation in TH with participation in ATH, and see if there are learnings to be derived from that; and documentation and tracking can work across the whole endeavour.
 
