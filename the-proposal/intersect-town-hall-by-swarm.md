@@ -181,7 +181,9 @@ This proposal aims to increase active participation drawn from this existing mem
 
 ### Planned Technical Features <a href="#xggalh7njthj" id="xggalh7njthj"></a>
 
+{% hint style="info" %}
 _Please provide detail on the planned technical features, chosen technical stack and implementation (including why) of your solution_
+{% endhint %}
 
 Technical features will include open source tools currently used in administration of other communities. Notably, use of GitHub repos, Project boards, GitBook integration, bounties remuneration using Dework.
 
@@ -189,11 +191,13 @@ Overall the technical stack will favor open source solutions extended to enable 
 
 ### Deliverables <a href="#u3u5qir0wct2" id="u3u5qir0wct2"></a>
 
+{% hint style="info" %}
 _Outline the deliverables in your proposed solution, where possible following the milestone guidance as laid out in the requirements._
 
 _Applications are evaluated against timeliness of working MVP and against major Cardano Roadmap events, as well as being well considered.\*_
 
 _(Applicant notes: please number each deliverable and provide a short description. For example, 1. Figma design for the user interface._
+{% endhint %}
 
 1. Facilitating monthly Intersect Town Hall: _8 monthly Town Halls, beginning in June and ending in December 2024_
 2. Summaries and tracking for monthly TH sessions: _Comprises correcting AI summaries; adding to GitBook; adding action items and decisions to GitHub Project Board and ensuring they're followed up; analysing and tracking key topics, ideas, speakers and attendees to enable high-level analysis of what is happening in Town Halls and who is engaging; identifying gaps and "who and what is missing"._
