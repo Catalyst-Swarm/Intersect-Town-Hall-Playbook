@@ -219,9 +219,11 @@ _(Applicant notes: please number each deliverable and provide a short descriptio
 
 ### Acceptance Criteria <a href="#id-7a4isnupgs8w" id="id-7a4isnupgs8w"></a>
 
+{% hint style="info" %}
 _For each deliverable, please explain the acceptance criteria (AC).\*_
 
 _(Applicant notes: the AC for a deliverable creates the checklist for testing completeness. During the project, your AC will be used to review your deliverables and trigger payment. Please number each AC to correspond with the appropriate deliverable. For example: 1. A) Application screens illustrate the interface design and main features for the two main user flows. B) Flow 1: Users are able to comment on proposals. C) Flow 2: Users are able to submit a proposal for discussion)_
+{% endhint %}
 
 1. Facilitating monthly Intersect Town Hall: _8 THs are delivered; each month, new people are present and engage with TH; participation in delivering TH increases; overall, attendance rises month on month; feedback forms and other feedback shows 80% satisfaction or higher; any criticisms given in feedback or surfaced via outreach are addressed._
 2. Summaries and tracking for monthly TH sessions: _8 meeting summaries are delivered; each one is accurate; each one is published within 2 weeks of the TH it relates to; there is a clear process for any corrections, and corrections are made within 2 weeks of publication. Action items and decisions arising from TH & ATH are captured and tracked._
