@@ -238,11 +238,13 @@ _(Applicant notes: the AC for a deliverable creates the checklist for testing co
 
 ### Estimated Duration and deliverable rationale <a href="#q0z7fjhvq2o2" id="q0z7fjhvq2o2"></a>
 
+{% hint style="info" %}
 Provide an estimated duration and rationale for each deliverable.\*
 
 (Applicant notes: for each deliverable, provide a number of weeks. For example: Deliverable 1. 4 weeks)
 
 The deliverables run concurrently over 7 to 8 months from May/June to December 2024.
+{% endhint %}
 
 1. Facilitating monthly Intersect Town Hall: _7 months. There will be 7 Town Halls, one per month. Town Halls will take place in the 2nd week of each month._
 2. Summaries and tracking for monthly TH sessions: _7 months. There will be 7 summaries, one per month, shared within 2 weeks of the relevant TH_
