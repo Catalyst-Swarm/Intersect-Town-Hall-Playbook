@@ -79,7 +79,7 @@ Please provide details on how you will meet Minimum Functional Requirements, Min
 
 ### **Minimum Functional Requirements**
 
-* **How will we consider the type of content and updates members of Intersect want to hear about?**
+#### **How will we consider the type of content and updates members of Intersect want to hear about?**
 
 Members of the Swarm team attend the current Intersect THs, and have a good sense of the issues being covered and the issues that existing attendees are enthusiastic about. But we’re also aware that a comparatively small number of members actually attend.
 
@@ -87,7 +87,7 @@ So as part of our proposed offer, we will conduct outreach to members (via surve
 
 The pathways we will offer members to share their work in THs will include joining our open Planning Workgroup sessions twice per month; giving a quick update asynchronously to be included in the Town Hall slides; giving a presentation about something they are working on; and running a breakout at an ATH.
 
-* **How will we collaborate with working groups and committees?**
+#### **How will we collaborate with working groups and committees?**
 
 Members of the Swarm TH team are involved with, or have links with, several of the existing working groups and committees. We will initially work via contacting working group members directly, and via looking at the working groups’ own documentation, to understand what their focus and priorities are; and we then intend to develop this into ways that working groups can easily keep everyone updated. For example:
 
@@ -95,11 +95,12 @@ Members of the Swarm TH team are involved with, or have links with, several of t
 * Offering working groups a regular mini-slot at TH, with a slide template that they can update asynchronously to tell the community about their work, which will be presented by us if they cannot spare the time;
 * Asking working groups and committees to include a standing agenda item in their own meetings to decide what they want to give as an update in TH
 * Proposing a simple structure for updates, to make it quicker for working groups to create them: such as a) inform the community what you’re working on; b) outline what’s new since your last update; and c) say how people can get involved. This will help them use TH as a focus for more engagement and inclusivity.
-* How will TH and ATH be promoted?
+
+#### How will TH and ATH be promoted?
 
 Swarm members have wide networks that we can use to promote TH and ATH via our own social media accounts; but we would also hope either to use Intersect’s accounts too, or provide content that the Intersect team can post. We’d use Discord, Telegram, the Cardano Forum, Twitter/X, Catalyst’s main TH and regional THs, and cross-chain promotion via our connections in e.g. Polkadot, SingularityNET and others. We feel it’s important for us not to “brand” the Intersect TH as a Swarm venture, but to use our social media skills to work with Intersect’s existing branding and its marketing team.
 
-* **What tools are needed or used?**
+#### **What tools are needed or used?**
 
 At the moment, Town Hall meetings are on Discord. Discord does have some shortcomings, especially in the area of recording, so we would like to explore with the community whether other options, such as Zoom, would work better.
 
@@ -113,17 +114,17 @@ Other tools used will include:
 
 These tools are accessible and most of them are widely used across different communities, which is why we have chosen them.
 
-* **How are meetings facilitated?**
+#### **How are meetings facilitated?**
 
 Initially, TH would be facilitated by members of the core Swarm TH team. But we aim to progress to 1) supporting community members to get involved in facilitating TH itself (with training and support where needed); 2) creating a modular structure where there are a number of regular short slots for the different working groups to give updates, and for different parts of the Intersect community to share news- this gives people a chance to facilitate a short section of the meeting; and 3) a process of developing ground rules that suit this community. We would include this in early Planning Group meetings, and do some outreach to members who are not attending to find out (anonymously) from them if any change to facilitation ground rules would make them more likely to participate.
 
 ATHs, by contrast, will be facilitated by whoever wants to run a breakout room, and they will do it in their own style. The Swarm team will be available to offer support for anyone who needs it, for example, a co-facilitator, or some help in designing or structuring their ATH; and we will manage timestamping and sharing the recordings of breakout rooms, and collating the community IP that comes out of them.
 
-* **How will we manage support and integration between TH and ATH?**
+#### **How will we manage support and integration between TH and ATH?**
 
 The fact that we are proposing to run boith TH and ATH will help enormously with this integration; and will ensure that the ideas that come up in each are able to cross-pollinate to the other.
 
-* **How will we collect topics for ATH spaces?**
+#### **How will we collect topics for ATH spaces?**
 
 Several pathways for this, to suit different needs:
 
@@ -133,23 +134,24 @@ Several pathways for this, to suit different needs:
 * via our regular planning workgroup, where the group might (for example) raise topics that are current in the community, and look for someone who could be invited to run an ATH about them
 * by directly using a Google signup form (the spreadsheet will be public, so people can see what other ATHs are happening on the day they are considering)
 * by using an Open Space approach, and always having a couple of rooms available for impromptu discussion, which we can help to facilitate as needed.
-  * H**ow do we promote ATH spaces**
+
+#### H**ow do we promote ATH spaces**
 
 They will be mainly promoted alongside TH itself via posting in key channels such as Discord, Twitter/X, Telegram, Cardano Forum etc; and via email to Intersect members.
 
-* **How do we help Intersect members facilitate ATH spaces**
+#### **How do we help Intersect members facilitate ATH spaces**
 
 We have budgeted to be able to offer members a co-facilitator and/or support in planning and delivering an ATH. We are also managing things like uploading and timestamping recordings.
 
 ### **Minimum Non-Functional Requirements**
 
-* **Establishing an ‘identity’ for Intersect TH/ATH**
+#### **Establishing an ‘identity’ for Intersect TH/ATH**
 
 In terms of a cohesive visual identity, we would work with Intersect’s marketing team and existing branding (including the Swarm logo alongside for transparency)
 
 But the “identity” of TH and ATH is, of course, more than the branding. First, by delivering them together, we would hope to create a unified identity for TH and ATH together as a place for the community to connect. Second, we would want to use the open nature of the Planning work group to create a sense of something built by the Intersect community for itself; and we would use our process of documentation and tracking of ideas, decisions, action items, changes, people involved etc to establish TH/ATH’s identity as an evolving space, but one where ideas are followed up on rather than sinking without trace.
 
-* **Vision to evolve TH/ATH into the future**
+#### **Vision to evolve TH/ATH into the future**
 
 SWARM has always helped to set up Town Halls and After Townhalls, working with a community to share learning and skills,define formats and tools, encourage team-building, etc - but the objective was always to not keep things running by SWARM, but to ensure that the TH/ATH becomes independent and is run by its community. We intend to do thew same with Intersect.
 
@@ -321,19 +323,19 @@ Please provide information about the main risks that could prevent you from deli
 (Applicant notes: to keep it focused on the most important risks, please limit yourself to five or fewer. For example: 1. Web3 login takes longer than expected to develop. Our mitigation will be to design the architecture to work with a Web2 login as a backup plan.)
 {% endhint %}
 
-Risk - that Intersect members will not engage in planning
+### Risk - that Intersect members will not engage in planning
 
 * Mitigation: planning spaces will be held open in a consistent and dependable manner; planning work will be organized in an open and welcoming way; planning spaces will prioritize listening to members to encourage shared ownership and responsibility for planning efforts
 
-Risk - of documentation being late
+### Risk - of documentation being late
 
 * Mitigation: focus early effort on setting up documentation infrastructure and process; dedicate planning space to clear delegations of responsibility for documentation requirements such as recording/upload, timestamping, gitbook updates, etc.
 
-Risk - that we do not succeed in attracting more, and new, attendees to TH and ATH
+### Risk - that we do not succeed in attracting more, and new, attendees to TH and ATH
 
 * Mitigation: leverage WG and committee documentation to give a clear sense of energy and effort taking place in Intersect; keep the edges of the marketing, planning and facilitation efforts open and transparent to potential attendees, members, or participants beyond core Intersect
 
-Risk - FUD around Intersect member, committee/WG, or wider scale Cardano efforts distracts from productive TH/ATH marketing and execution
+### Risk - FUD around Intersect member, committee/WG, or wider scale Cardano efforts distracts from productive TH/ATH marketing and execution
 
 * Mitigation: transparency and communication around documentation and process; clarity of responsibility and accountability for efforts conducted under this grant; professionalism and win/win, infinite games mindset around engaging with others in communication channels; listening as a core skill that is modeled.
 
@@ -374,16 +376,17 @@ All information provided is accurate and complete to the best of my knowledge. B
 
 ## References <a href="#v3z13kkf0j73" id="v3z13kkf0j73"></a>
 
-Intersect Documentation
+### Intersect Documentation
 
 [https://docs.intersectmbo.org/](https://docs.intersectmbo.org/)
 
 [https://docs.intersectmbo.org/intersect-community-grants/open-grants/inclusion-and-accessibility](https://docs.intersectmbo.org/intersect-community-grants/open-grants/inclusion-and-accessibility)
 
-Intersect MBO repo\
+### Intersect MBO repo
+
 [https://github.com/IntersectMBO](https://github.com/IntersectMBO)
 
-Catalyst ATH Playbook
+### Catalyst ATH Playbook
 
 [https://docs.google.com/document/d/10LumIRMm9dwlg6cGxx6KHYUcZfSB4-DahKE06kit8E0/edit?usp=sharing](https://docs.google.com/document/d/10LumIRMm9dwlg6cGxx6KHYUcZfSB4-DahKE06kit8E0/edit?usp=sharing)
 
