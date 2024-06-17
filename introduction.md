@@ -4,6 +4,8 @@ description: An introductory presentation held at the May 2024 Intersect Town Ha
 
 # Introduction
 
+{% embed url="https://youtu.be/Hrm3LvHGriA" %}
+
 ## **Intersect Town Halls and After Town Halls**
 
 &#x20;Facilitated by Swarm&#x20;
