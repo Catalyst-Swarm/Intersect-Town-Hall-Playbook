@@ -1,3 +1,7 @@
-# Intersect-Town-Hall-Playbook
+---
+description: Welcome page
+---
 
-Test
+# Intersect Town Hall Playbook
+
+This is the draft baseline of the planned Intersect Town Hall Paybook
