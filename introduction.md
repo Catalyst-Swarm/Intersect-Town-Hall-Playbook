@@ -1,3 +1,7 @@
+---
+description: An introductory presentation held at the May 2024 Intersect Town Hall
+---
+
 # Introduction
 
 ## **Intersect Town Halls and After Town Halls**
