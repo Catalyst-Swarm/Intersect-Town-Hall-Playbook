@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Intersect Town Hall Playbook](README.md)
-* [Introduction](introduction.md)
+* [Introduction](README.md)
+* [Intersect Town Hall Playbook](<README (1).md>)
 
 ## Proposal Reporting
 
