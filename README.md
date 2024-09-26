@@ -12,6 +12,8 @@ Facilitated by Swarm&#x20;
 
 I'm pleased to introduce you to Swarm's facilitation of the Intersect Town Halls and After Town Halls.&#x20;
 
+{% embed url="https://youtu.be/dbSLZ33mgww" %}
+
 ## **A Connected Experience**
 
 Publicity, planning and community research&#x20;
