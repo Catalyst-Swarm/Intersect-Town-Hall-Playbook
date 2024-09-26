@@ -25,13 +25,13 @@ On the 4th week of the Month, Thursday at 16:00 UTC - Intersect Town Hall and Af
 
 
 
-The up-to-date Schedule of events will be visible on theIntersect Calendar. [https://calendar.google.com/calendar/u/0/embed?src=c\_b0c28175a650d8e0720536de89a443121ba71a5d081bdb9e54dbe566254f9de0@group.calendar.google.com\&ctz=UTC\&csspa=0](https://calendar.google.com/calendar/u/0/embed?src=c\_b0c28175a650d8e0720536de89a443121ba71a5d081bdb9e54dbe566254f9de0@group.calendar.google.com\&ctz=UTC\&csspa=0)
+The up-to-date Schedule of events will be visible on the Intersect Calendar. [https://calendar.google.com/calendar/u/0/embed?src=c\_b0c28175a650d8e0720536de89a443121ba71a5d081bdb9e54dbe566254f9de0@group.calendar.google.com\&ctz=UTC\&csspa=0](https://calendar.google.com/calendar/u/0/embed?src=c\_b0c28175a650d8e0720536de89a443121ba71a5d081bdb9e54dbe566254f9de0@group.calendar.google.com\&ctz=UTC\&csspa=0)
 
 Changes to the Calendar are made with the account townhalls@intersectmbo.com
 
 Discord Chronicle Bot picks up Google Calendar changes and creates Discord Events automatically.&#x20;
 
-### 1st Workgroup Session
+### 1st week Workgroup Session
 
 The Standard Agenda looks like this:
 
@@ -52,7 +52,7 @@ The Standard Agenda looks like this:
 
 Miro Board Template for Miro Board Meeting Notes: [https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10](https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10)
 
-### 2nd Workgroup Session
+### 2nd week Workgroup Session
 
 The Standard Agenda looks like this:
 
