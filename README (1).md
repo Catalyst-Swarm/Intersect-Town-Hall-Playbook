@@ -116,10 +116,10 @@ Sign Up Form: [https://forms.gle/Qyn5K7F8RM2pzLxF6](https://forms.gle/Qyn5K7F8RM
 
 Above in the schedule, you find ways to connect with us in live sessions. In addition, members of Intersect Town Hall are also joining other Workgroups and meetings to help establish more relations between groups and Town Halls.
 
-For asynchronous work, we various platforms:
+For asynchronous work, we use various platforms:
 
 * Intersect Discord Server - Intersect Town Hall Channel
-  * You can find all Town Hall related updates or requests in here first
+  * You can find all Town Hall related updates or requests here first
 * GitHub Project Board - [https://github.com/orgs/Catalyst-Swarm/projects/1/views/1](https://github.com/orgs/Catalyst-Swarm/projects/1/views/1)
   * Intersect Town Hall Deliverables and Budgeting
 * GitHub Problem Board - [https://github.com/orgs/Catalyst-Swarm/projects/2/views/1](https://github.com/orgs/Catalyst-Swarm/projects/2/views/1)
@@ -128,7 +128,7 @@ For asynchronous work, we various platforms:
 
 ### Messaging Strategy
 
-We use Google Google Docs and Sheet with commenting access to provide better transparency and open up for improvements
+We use Google Google Docs and Sheets with commenting access to provide better transparency and open up for improvements.
 
 Google Docs to keep track of the latest publicity messages [https://docs.google.com/document/d/1\_n2cMAk8uhVoNWanUWEMS8AkLxW8EN0uegHiXBvc6XE/edit#heading=h.ycptt3kp3wuw](https://docs.google.com/document/d/1\_n2cMAk8uhVoNWanUWEMS8AkLxW8EN0uegHiXBvc6XE/edit#heading=h.ycptt3kp3wuw)
 
@@ -136,9 +136,13 @@ Public Google Sheet for planning messaging channels and strategy how we use them
 
 ### IntersectMBO Support
 
-The Intersect Staff team does not have time to address requests timely or amplify messages for Intersect Town Hall. It's better to connect individuals privately with specific requests.
+IntersectMBO can help to update Intersect Newsletters. Requests may not be fulfilled after confirmation. Plan newsletters two weeks ahead.
 
-Sometimes, extra private sessions are requested from Intersect Staff where they want to review the agenda or provide internally collected feedback.
+The Intersect Staff team announces Intersect Town Hall's start in the Discord announcements channel.
+
+The Intersect Staff team may not amplify messages for Intersect Town Halls.
+
+You may need to have extra private sessions with Intersect Staff where they want to review the agenda or provide internally collected feedback.
 
 ## Roles and Responsibilities
 
