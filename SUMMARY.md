@@ -8,4 +8,4 @@
 * [The Proposal](proposal-reporting/the-proposal/README.md)
   * [Intersect Town Hall by SWARM](proposal-reporting/the-proposal/intersect-town-hall-by-swarm.md)
 * [Milestones](proposal-reporting/milestones.md)
-* [Intersect Town Halls](proposal-reporting/intersect-town-halls.md)
+* [Intersect Town Halls (TH) and After Town Halls (ATH)](proposal-reporting/intersect-town-halls-th-and-after-town-halls-ath.md)
