@@ -34,7 +34,7 @@ GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Tow
 
 {% embed url="https://youtu.be/N6YIBKzbtgU" %}
 
-## ATH - 25th July 2024
+## TH - 25th July 2024
 
 {% embed url="https://www.youtube.com/watch?v=2IaAIescVqg" %}
 
