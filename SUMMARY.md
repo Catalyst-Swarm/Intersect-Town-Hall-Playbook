@@ -9,3 +9,4 @@
   * [Intersect Town Hall by SWARM](proposal-reporting/the-proposal/intersect-town-hall-by-swarm.md)
 * [Milestones](proposal-reporting/milestones.md)
 * [Intersect Town Halls (TH) and After Town Halls (ATH)](proposal-reporting/intersect-town-halls.md)
+* [Active Surveys](proposal-reporting/active-surveys.md)
