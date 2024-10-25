@@ -12,6 +12,18 @@ Intersect Town Hall and After Town Hall are held on the 4th week of the Month, T
 
 Sign Up form for hosting an After Town Hall: [https://forms.gle/Qyn5K7F8RM2pzLxF6](https://forms.gle/Qyn5K7F8RM2pzLxF6)
 
+## TH - 24th October 2024
+
+{% embed url="https://www.youtube.com/watch?v=bOgUgiwzjwc" %}
+
+GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/76](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/76)
+
+## ATH - What's Wrong with Town Hall?
+
+{% embed url="https://youtu.be/6MeK-QnVQiQ" %}
+
+GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/80](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/80)
+
 ## TH - 26th September 2024
 
 {% embed url="https://youtu.be/Pv8FDAKKfCo?si=5KlAOtx-x6tX4Uys" %}
