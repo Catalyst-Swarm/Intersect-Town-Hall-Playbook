@@ -18,7 +18,7 @@ Sign Up form for hosting an After Town Hall: [https://forms.gle/Qyn5K7F8RM2pzLxF
 
 GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/76](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/76)
 
-## ATH - What's Wrong with Town Hall?
+## ATH - What strategies are needed to build and sustain a skilled blockchain workforce?
 
 {% embed url="https://youtu.be/6MeK-QnVQiQ" %}
 
