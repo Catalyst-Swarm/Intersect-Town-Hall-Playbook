@@ -7,10 +7,22 @@ description: List of the Town Hall videos and documentation from latest to oldes
 Intersect Town Hall and After Town Hall are held on the 4th week of the Month, Thursdays at 16:00 UTC
 
 {% embed url="https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk_4v8#/registration" %}
-[https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk\_4v8#/registration](https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk\_4v8#/registration)
+[https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk\_4v8#/registration](https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk_4v8#/registration)
 {% endembed %}
 
 Sign Up form for hosting an After Town Hall: [https://forms.gle/Qyn5K7F8RM2pzLxF6](https://forms.gle/Qyn5K7F8RM2pzLxF6)
+
+## TH - 19th December 2024
+
+{% embed url="https://youtu.be/P4q0CwYTaV4" %}
+
+GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/87](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/87)
+
+## TH - 28th November 2024
+
+There is no Recording
+
+GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/82](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/82)
 
 ## TH - 24th October 2024
 
