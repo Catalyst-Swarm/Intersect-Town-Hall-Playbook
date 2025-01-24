@@ -1,16 +1,20 @@
 ---
-description: List of the Town Hall videos and documentation from latest to oldest
+description: >-
+  List of the Town Hall videos and documentation from latest to oldest (last
+  update 24.01.2025)
 ---
 
 # Intersect Town Halls (TH) and After Town Halls (ATH)
 
-Intersect Town Hall and After Town Hall are held on the 4th week of the Month, Thursdays at 16:00 UTC
+Intersect Town Hall and After Town Hall **were held** on the 4th week of the Month, Thursdays at 16:00 UTC
 
-{% embed url="https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk_4v8#/registration" %}
-[https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk\_4v8#/registration](https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk_4v8#/registration)
-{% endembed %}
+Sign Up form for hosting an After Town Hall **is closed**
 
-Sign Up form for hosting an After Town Hall: [https://forms.gle/Qyn5K7F8RM2pzLxF6](https://forms.gle/Qyn5K7F8RM2pzLxF6)
+## TH - 23rd January 2025
+
+{% embed url="https://youtu.be/p_CCuTVrGV8" %}
+
+GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/88](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/88)
 
 ## TH - 19th December 2024
 
