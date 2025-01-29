@@ -16,6 +16,14 @@ Sign Up form for hosting an After Town Hall **is closed**
 
 GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/88](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/88)
 
+## ATH - Francophone Corner: Questions & Answers
+
+GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/92](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/92)
+
+## ATH - What’s next for Intersect Town Hall?
+
+GitHub Issue for Documentation: [https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/91](https://github.com/Catalyst-Swarm/Intersect-Town-Hall/issues/91)
+
 ## TH - 19th December 2024
 
 {% embed url="https://youtu.be/P4q0CwYTaV4" %}
