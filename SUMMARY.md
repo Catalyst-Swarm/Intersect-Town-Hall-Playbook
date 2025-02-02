@@ -5,8 +5,6 @@
 
 ## Proposal Reporting
 
-* [The Proposal](proposal-reporting/the-proposal/README.md)
-  * [Intersect Town Hall by SWARM](proposal-reporting/the-proposal/intersect-town-hall-by-swarm.md)
+* [2024 Proposal - Intersect Town Hall by SWARM](proposal-reporting/2024-proposal-intersect-town-hall-by-swarm.md)
 * [Milestones](proposal-reporting/milestones.md)
 * [Intersect Town Halls (TH) and After Town Halls (ATH)](proposal-reporting/intersect-town-halls.md)
-* [Active Surveys](proposal-reporting/active-surveys.md)
