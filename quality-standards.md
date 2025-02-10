@@ -1,3 +1,7 @@
+---
+description: Follow the spirit of Open Source Development
+---
+
 # Quality Standards
 
 Compliant with best practices of Open Source licensing
