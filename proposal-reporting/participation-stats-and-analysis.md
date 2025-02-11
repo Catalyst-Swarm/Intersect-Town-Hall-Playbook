@@ -13,4 +13,12 @@ We had a total of 84 unique participants visit the Town Hall across this 4-month
 Throughout Town Halls, it's visible that that we have a low retention rate.\
 We constantly get new members to join each Town Hall and some people rejoin after a few months, but growth is not visible in the long term.
 
-\
+## Engagement Channels and Engagement Tracking
+
+You can find the report on top of each Analytics Sheet
+
+* Bitly Engagement Reports
+* Twitter/X Account Engagement Report
+* YouTube Account Engagement Report
+
+{% embed url="https://docs.google.com/spreadsheets/d/1CMiDIkTdp1JOt6qRBcse-51PTOw9dqBU_YxB5XEcOf0" %}
