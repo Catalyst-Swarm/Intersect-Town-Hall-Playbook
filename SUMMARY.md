@@ -8,5 +8,6 @@
 ## Proposal Reporting
 
 * [2024 Proposal - Intersect Town Hall by SWARM](proposal-reporting/2024-proposal-intersect-town-hall-by-swarm.md)
+* [Contract Template](proposal-reporting/contract-template.md)
 * [Milestones](proposal-reporting/milestones.md)
 * [Participation Stats and Analysis](proposal-reporting/participation-stats-and-analysis.md)
