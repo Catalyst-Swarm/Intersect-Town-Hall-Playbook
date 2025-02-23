@@ -12,8 +12,9 @@ Google Doc > [Template - INDEPENDENT CONTRACTOR AGREEMENT](https://docs.google.c
 
 ### Use Cases
 
-* Manage relationships with skilled individuals and provide clarity on how legal and tax risks are solved
-* &#x20;Cultivate Cross-border engagements
+* Manage relationships with skilled individuals
+* Provide clarity on how legal and tax risks are solved
+* Cultivate Cross-border engagements
 
 
 
