@@ -2,12 +2,9 @@
 description: Welcome page
 ---
 
-# Intersect Town Hall Playbook
+# Intersect Town Hall Framework
 
-Last Updated 23.09.24\
-Next Planned Update: 16.01.25
-
-
+This framework outlines the structure, roles, and processes that guide the Intersect Town Hall ecosystem, emphasizing collaboration, transparency, and community-driven engagement. It establishes a recurring schedule of events, including workgroup sessions, stand-up meetings, and the main Intersect Town Hall, followed by an After Town Hall session for further discussion.
 
 ## Schedule of Events
 
@@ -15,56 +12,76 @@ Intersect Town Halls are built on co-creative iteration. Each week, there is a s
 
 The standard schedule goes like this:
 
-On the 1st week of the month, Thursday at 16:00 UTC - 1st Workgroup Session is held. [https://us02web.zoom.us/meeting/register/tZYvdeCgqj4jE9FeALSUQp3kQivSCGn0Z2z\_#/registration](https://us02web.zoom.us/meeting/register/tZYvdeCgqj4jE9FeALSUQp3kQivSCGn0Z2z\_#/registration)
+On the 1st week of the month, Thursday at 16:00 UTC - 1st Workgroup Session is held.
 
-On the 2nd week of the month, Thursday at 16:00 UTC - 2nd Workgroup Session is held. [https://us02web.zoom.us/meeting/register/tZYvdeCgqj4jE9FeALSUQp3kQivSCGn0Z2z\_#/registration](https://us02web.zoom.us/meeting/register/tZYvdeCgqj4jE9FeALSUQp3kQivSCGn0Z2z\_#/registration)
+On the 2nd week of the month, Thursday at 16:00 UTC - 2nd Workgroup Session is held.
 
 On the 3rd week of the month, Thursday at 16:00 UTC, a Swarm Stand Up Session will be held.
 
-On the 4th week of the Month, Thursday at 16:00 UTC - Intersect Town Hall and After Town Hall is held. [https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk\_4v8#/registration](https://us02web.zoom.us/meeting/register/tZEkc-ugqTIjE9zqEK2oRrfcltquGBPk\_4v8#/registration)
+On the 4th week of the month, Thursday at 16:00 UTC - Intersect Town Hall and After Town Hall is held.&#x20;
 
+This schedule helps to establish pattern and predictability
 
-
-The up-to-date Schedule of events will be visible on the Intersect Calendar. [https://calendar.google.com/calendar/u/0/embed?src=c\_b0c28175a650d8e0720536de89a443121ba71a5d081bdb9e54dbe566254f9de0@group.calendar.google.com\&ctz=UTC\&csspa=0](https://calendar.google.com/calendar/u/0/embed?src=c\_b0c28175a650d8e0720536de89a443121ba71a5d081bdb9e54dbe566254f9de0@group.calendar.google.com\&ctz=UTC\&csspa=0)
+The up-to-date Schedule of events will be visible on the [Intersect Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_b0c28175a650d8e0720536de89a443121ba71a5d081bdb9e54dbe566254f9de0@group.calendar.google.com\&ctz=UTC\&csspa=0).&#x20;
 
 Changes to the Calendar are made with the account townhalls@intersectmbo.com
 
 Discord Chronicle Bot picks up Google Calendar changes and creates Discord Events automatically.&#x20;
 
-### 1st week Workgroup Session
+### Agenda Templates
 
-The Standard Agenda looks like this:
+* [Miro Board Template](https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10) for Miro Board Meeting Notes
+* Monthly Google Doc - [Town Hall Agenda Template](https://docs.google.com/document/d/1vyy2Ds3Y88YbNBVKMxCHOIk-0CNbCkhXbJkQ4tZi1MY)
+
+<details>
+
+<summary>1st week Workgroup Session Agenda</summary>
 
 * Context: Workgroup helps to Co-Create and Operate Intersect Town Halls
-* 5min - Welcome and Agenda
+
+- 5min - Welcome and Agenda
+
 * 5min - _(Optional)_ Introductions, Onboarding and Open Questions
-* 10min - Retrospective on Previous Town Hall
+
+- 10min - Retrospective on Previous Town Hall
+
 * 30min - Work on primary Town Hall items
   * Prepare next TH agenda - TH Agenda Template: [https://docs.google.com/document/d/1vyy2Ds3Y88YbNBVKMxCHOIk-0CNbCkhXbJkQ4tZi1MY/edit?usp=sharing](https://docs.google.com/document/d/1vyy2Ds3Y88YbNBVKMxCHOIk-0CNbCkhXbJkQ4tZi1MY/edit?usp=sharing)
   * communication plan - more details under the communication plan section
   * slides - Slides are carried over from last month and all group updates are removed
   * ATH topics - Coordinate and help prepare ATH Topics
-* 10min - Work on secondary Town Hall items
+
+- 10min - Work on secondary Town Hall items
   * project management - [https://github.com/orgs/Catalyst-Swarm/projects/1/views/1](https://github.com/orgs/Catalyst-Swarm/projects/1/views/1)
   * workgroup documentation - Creating additional guiding documentation to make it easier to engage with Intersect Town Hall
+
 * 20min - Open Topics - either discuss further on previous items or new ideas
-* 10min - Next Elegant Steps
 
-Miro Board Template for Miro Board Meeting Notes: [https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10](https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10)
+- 10min - Next Elegant Steps
 
-### 2nd week Workgroup Session
 
-The Standard Agenda looks like this:
+
+</details>
+
+<details>
+
+<summary>2nd week Workgroup Session Agenda</summary>
 
 * Context: Workgroup helps to Co-Create and Operate Intersect Town Halls
-* 5min - Welcome and Agenda
+
+- 5min - Welcome and Agenda
+
 * 5min - _(Optional)_ Introductions, Onboarding and Open Questions
-* 30min - Review and Update the Intersect Town Hall Problem Board [https://github.com/orgs/Catalyst-Swarm/projects/2/views/1](https://github.com/orgs/Catalyst-Swarm/projects/2/views/1)
+
+- 30min - Review and Update the Intersect Town Hall Problem Board [https://github.com/orgs/Catalyst-Swarm/projects/2/views/1](https://github.com/orgs/Catalyst-Swarm/projects/2/views/1)
+
 * 15min - Coordinate After Town Hall Topic
-* 25min - Open Topics
+
+- 25min - Open Topics
+
 * 10min - Next Elegant Steps
 
-Miro Board Template for Miro Board Meeting Notes: [https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10](https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10)
+</details>
 
 ### Swarm Team Stand-Up Session
 
@@ -106,11 +123,9 @@ The breakout rooms take place simultaneously and Town Hall attendees choose whic
 
 Anyone can sign up to run one, and can run it in whatever style they like.&#x20;
 
-The Swarm Town Hall team can offer support with planning, facilitating or documenting -&#x20;
+The Swarm Town Hall team can offer support with planning, facilitating or documenting
 
-just let us know in the form!
-
-Sign Up Form: [https://forms.gle/Qyn5K7F8RM2pzLxF6](https://forms.gle/Qyn5K7F8RM2pzLxF6)
+Sign Up Form: Closed
 
 ## Communication Plan
 
@@ -118,8 +133,7 @@ Above in the schedule, you find ways to connect with us in live sessions. In add
 
 For asynchronous work, we use various platforms:
 
-* Intersect Discord Server - Intersect Town Hall Channel
-  * You can find all Town Hall related updates or requests here first
+* Intersect Discord Server - Intersect Town Hall Channel (Channel Deleted)
 * GitHub Project Board - [https://github.com/orgs/Catalyst-Swarm/projects/1/views/1](https://github.com/orgs/Catalyst-Swarm/projects/1/views/1)
   * Intersect Town Hall Deliverables and Budgeting
 * GitHub Problem Board - [https://github.com/orgs/Catalyst-Swarm/projects/2/views/1](https://github.com/orgs/Catalyst-Swarm/projects/2/views/1)
@@ -130,19 +144,21 @@ For asynchronous work, we use various platforms:
 
 We use Google Google Docs and Sheets with commenting access to provide better transparency and open up for improvements.
 
-Google Docs to keep track of the latest publicity messages [https://docs.google.com/document/d/1\_n2cMAk8uhVoNWanUWEMS8AkLxW8EN0uegHiXBvc6XE/edit#heading=h.ycptt3kp3wuw](https://docs.google.com/document/d/1\_n2cMAk8uhVoNWanUWEMS8AkLxW8EN0uegHiXBvc6XE/edit#heading=h.ycptt3kp3wuw)
+Google Docs to keep track of the [latest publicity messages](https://docs.google.com/document/d/1_n2cMAk8uhVoNWanUWEMS8AkLxW8EN0uegHiXBvc6XE)
 
-Public Google Sheet for planning messaging channels and strategy how we use them [https://docs.google.com/spreadsheets/d/1CMiDIkTdp1JOt6qRBcse-51PTOw9dqBU\_YxB5XEcOf0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CMiDIkTdp1JOt6qRBcse-51PTOw9dqBU\_YxB5XEcOf0/edit?usp=sharing)
+Public [Google Sheet](https://docs.google.com/spreadsheets/d/1CMiDIkTdp1JOt6qRBcse-51PTOw9dqBU_YxB5XEcOf0) for planning messaging channels and strategy how we use them&#x20;
 
 ### IntersectMBO Support
 
 IntersectMBO can help to update Intersect Newsletters. Requests may not be fulfilled after confirmation. Plan newsletters two weeks ahead.
 
-The Intersect Staff team announces Intersect Town Hall's start in the Discord announcements channel.
+The Intersect Staff team cannot always announce Intersect Town Hall's start in the Discord announcements channel and can not give you access to do it.
 
 The Intersect Staff team may not amplify messages for Intersect Town Halls.
 
-You may need to have extra private sessions with Intersect Staff where they want to review the agenda or provide internally collected feedback.
+You may need to have extra private sessions with Intersect Staff earlier in the project before you may proceed with the proposal delivery.
+
+Our questions and requirements remained unaddressed for extended periods, ranging from weeks to even months. This lack of responsiveness created challenges in meeting our objectives effectively and required us to find alternative solutions to keep progress on track.
 
 ## Roles and Responsibilities
 
@@ -176,14 +192,4 @@ Share Summaries - Updates from workgroup sessions, updates from Town Halls, upda
 
 ### Project Leads
 
-Take ownership of Town Hall proposal deliverables [https://github.com/orgs/Catalyst-Swarm/projects/1/views/1](https://github.com/orgs/Catalyst-Swarm/projects/1/views/1)
-
-## Other Resources
-
-Here will be a list of all the relevant documentation TH WG has produced when facilitating town halls.
-
-### Agenda Templates
-
-Monthly Town Hall Agenda Template: [https://docs.google.com/document/d/1vyy2Ds3Y88YbNBVKMxCHOIk-0CNbCkhXbJkQ4tZi1MY/edit#heading=h.t8wrmopmsksn](https://docs.google.com/document/d/1vyy2Ds3Y88YbNBVKMxCHOIk-0CNbCkhXbJkQ4tZi1MY/edit#heading=h.t8wrmopmsksn)
-
-Miro Board Workgroup Sessions: [https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10](https://miro.com/app/board/uXjVKG5h5BA=/?moveToWidget=3458764593265397919\&cot=10)
+They take ownership of Town Hall proposal deliverables on [GitHub](https://github.com/orgs/Catalyst-Swarm/projects/1/views/1)

@@ -1,40 +1,42 @@
 ---
-description: An introductory presentation held at the May 2024 Intersect Town Hall
+description: >-
+  The Intersect Town Halls by Swarm started in June 2024 and ended in January
+  2025
 ---
 
 # Introduction
 
 {% embed url="https://youtu.be/Hrm3LvHGriA" %}
+An introductory presentation held at the May 2024 Intersect Town Hall
+{% endembed %}
 
 ## **Intersect Town Halls (ITH) and After Town Halls (ATH)**
 
-Facilitated by Swarm&#x20;
-
-I'm pleased to introduce you to Swarm's facilitation of the Intersect Town Halls and After Town Halls.&#x20;
-
 {% embed url="https://youtu.be/dbSLZ33mgww" %}
+Monthly Town Hall Intro
+{% endembed %}
 
 ## **A Connected Experience**
 
 Publicity, planning and community research&#x20;
 
-Swarm is going to facilitate these Town Halls and After Town Halls every month, making them a connected experience. This means we'll coordinate the publicity, planning, and community research together. Our goal is to create Town Halls that are engaging, welcoming, well-publicized, and truly participatory.
+Swarm facilitate these Town Halls and After Town Halls every month, making them a connected experience. This means we coordinated the publicity, planning, and community research together. Our goal was to create Town Halls that are engaging, welcoming, well-publicized, and truly participatory.
 
-Intersect Town Hall happens every fourth Thursday in the month at 16:00 UTC
+Intersect Town Hall happened every fourth Thursday in the month at 16:00 UTC
 
-ITH Zoom Registration Link: [https://bit.ly/46nPeKJ](https://bit.ly/46nPeKJ)
+ITH Zoom Registration Link: ARCHIVED
 
 ## **Swarm’s Town Hall History**&#x20;
 
 We start them, support them and hand them over.&#x20;
 
-Now, a little bit about our history. Swarm has a solid track record of kickstarting Town Halls in various communities. We provide the initial support, knowledge, and mentorship needed, and then we step back to let the community take over. We've successfully done this in places like Project Catalyst in Africa, Latam, the Eastern Hemisphere, Europe, and the Pacific regions. Also, we've worked with SingularityNET’s Ambassador Program and DeepFunding Program. We typically take about 7 to 10 months to get things rolling, which fits perfectly with the time frame of this grant.&#x20;
+Now, a little bit about our history. Swarm has a solid track record of kickstarting Town Halls in various communities. We provide the initial support, knowledge, and mentorship needed, and then we step back to let the community take over. We've successfully done this in places like Project Catalyst in Africa, Latam, the Eastern Hemisphere, Europe, and the Pacific regions. Also, we've worked with SingularityNET’s Ambassador Program and DeepFunding Program. We typically take about 7 to 10 months to get things rolling, which fits perfectly with the time frame of this grant.
 
 ## **Open Town Hall Working Group**&#x20;
 
-To engage the wider Intersect community in Town Hall planning, we'll be running two open workshops per month. These workshops are for anyone in the Intersect community who wants to get involved in Co-Creation and Operations for Intersect Town Halls.
+To engage the wider Intersect community in Town Hall planning, we ran two open workshops per month. These workshops were for anyone in the Intersect community who wanted to get involved in Co-Creation and Operations for Intersect Town Halls.
 
-ITH Working Group Zoom Link: [https://bit.ly/3W4tb8q](https://bit.ly/3W4tb8q)
+ITH Working Group Zoom Link: ARCHIVED
 
 ITH Problem Board: [https://github.com/orgs/Catalyst-Swarm/projects/2/views/1](https://github.com/orgs/Catalyst-Swarm/projects/2/views/1)
 
@@ -42,7 +44,7 @@ ITH Problem Board: [https://github.com/orgs/Catalyst-Swarm/projects/2/views/1](h
 
 Town Hall and After Town Hall content becomes an Intersect community asset.&#x20;
 
-One of our key goals is to make sure all the topics, contributions, decisions, and ideas that come up during the Town Halls and After Town Halls are well-documented. This way, everything becomes a valuable community asset.&#x20;
+One of our key goals was to make sure all the topics, contributions, decisions, and ideas that come up during the Town Halls and After Town Halls are well-documented. This way, everything becomes a valuable community asset.&#x20;
 
 ITH GitHub Project Board: [https://github.com/orgs/Catalyst-Swarm/projects/1/views/1](https://github.com/orgs/Catalyst-Swarm/projects/1/views/1)
 
@@ -50,7 +52,7 @@ ITH GitHub Project Board: [https://github.com/orgs/Catalyst-Swarm/projects/1/vie
 
 Build a baseline and iterate on it&#x20;
 
-To help with this, we'll be adding to Intersect’s existing GitBook materials with a Town Hall Playbook. This will give us a solid baseline to work from and improve upon as we go.&#x20;
+We have kept this Town Hall Playbook up to date. This will give us a solid baseline to work from and improve upon.
 
 ITH Playbook: [https://catalyst-swarm.gitbook.io/intersect-town-hall-playbook](https://catalyst-swarm.gitbook.io/intersect-town-hall-playbook)
 
@@ -64,13 +66,13 @@ You can learn more about the team in the Intersect Town Hall Proposal here: [htt
 
 ## **Further Updates**&#x20;
 
-For all the latest updates
+This project is now closed, to learn what we are working on next, join our Discord network or follow us on X
 
 **On Discord:**
 
 Swarm - Active Projects Forum: Intersect Town Hall  [https://discord.gg/cSz7sFXVcZ](https://discord.gg/cSz7sFXVcZ)
 
-Intersect - Interesect TownHalls channel (requires Intersect registration: [https://intersectmbo.org/membership](https://intersectmbo.org/membership))&#x20;
+DELETED - Intersect - Intersect TownHalls channel (requires Intersect registration: [https://intersectmbo.org/membership](https://intersectmbo.org/membership))&#x20;
 
 **On X / Twitter**: [https://x.com/CatalystSwarm](https://x.com/CatalystSwarm)
 

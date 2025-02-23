@@ -1,7 +1,5 @@
 ---
-description: >-
-  List of the Town Hall videos and documentation from latest to oldest (last
-  update 24.01.2025)
+description: List of the Town Hall videos and documentation from latest to oldest
 ---
 
 # Intersect Town Halls (TH) and After Town Halls (ATH)
