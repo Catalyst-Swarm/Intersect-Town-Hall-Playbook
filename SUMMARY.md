@@ -11,3 +11,7 @@
 * [Contract Template](proposal-reporting/contract-template.md)
 * [Milestones](proposal-reporting/milestones.md)
 * [Participation Stats and Analysis](proposal-reporting/participation-stats-and-analysis.md)
+
+***
+
+* [2025 Proposal - Decentralize Town Halls](2025-proposal-decentralize-town-halls.md)
