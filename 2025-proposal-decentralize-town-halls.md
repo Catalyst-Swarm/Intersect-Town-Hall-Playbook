@@ -12,6 +12,8 @@ description: Roadmap to the proposal where the most recent update is on top
 
 Tevo shared an analysis of his labelled time allocation to Intersect Town Hall
 
+{% embed url="https://www.youtube.com/watch?v=-1Lh0w_LhKs" %}
+
 [Link to Board](https://miro.com/app/board/uXjVLkFzO4U=/?moveToWidget=3458764615719739549\&cot=10)
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
