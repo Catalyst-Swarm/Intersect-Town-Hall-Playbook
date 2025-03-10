@@ -6,6 +6,8 @@ description: Roadmap to the proposal where the most recent update is on top
 
 ## 07.03.2025 - Proposal for 2025 Intersect Town Halls
 
+[Link to Google Doc](https://docs.google.com/document/d/1HPadiHX5bm6qg3WAdDX5xec-yC3-KyYxaP8VSByut_o/edit?tab=t.0)
+
 {% embed url="https://docs.google.com/document/d/1HPadiHX5bm6qg3WAdDX5xec-yC3-KyYxaP8VSByut_o/edit?tab=t.0" %}
 
 ## 25.02.2025 - Operations and Retrospective
